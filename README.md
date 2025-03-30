@@ -18,4 +18,5 @@ I'm a Front-End Developer and a Computer Science student at the State University
 
 📧 Email: karisikdzemil@gmail.com
 
-💼 LinkedIn: Džemil Karišik
+💼 [LinkedIn](https://www.linkedin.com/in/dzemil-karisik-37b964253/)
+
