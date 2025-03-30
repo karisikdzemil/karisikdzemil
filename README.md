@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Džemil Karišik! 👋
 
-<!--
-**karisikdzemil/karisikdzemil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer and a Computer Science student at the State University of Novi Pazar. I've been passionate about programming since 2022, constantly learning and improving my skills through various courses and university projects.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Focused on Front-End Development
+
+🎓 Completed multiple courses and university projects
+
+🛠️ Built numerous small and large-scale projects to enhance my knowledge and simulate real-world scenarios
+
+🌍 Looking for opportunities to collaborate and grow professionally
+
+🛠️ Tech Stack
+
+📫 Contact Me
+
+📧 Email: karisikdzemil@gmail.com
+
+💼 LinkedIn: Džemil Karišik
