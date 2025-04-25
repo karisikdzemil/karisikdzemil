@@ -15,3 +15,5 @@ I'm a Front-End Developer and a Computer Science student at the State University
 🛠️ Tech Stack
 
 📫 Contact Me
+
+📧 Email: karisikdzemil@gmail.com
