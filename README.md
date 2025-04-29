@@ -12,5 +12,3 @@ I'm a Front-End Developer and a Computer Science student at the State University
 
 🌍 Looking for opportunities to collaborate and grow professionally
 
-🛠️ Tech Stack
-
