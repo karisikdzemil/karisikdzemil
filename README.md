@@ -10,5 +10,4 @@ I'm a Front-End Developer and a Computer Science student at the State University
 
 🛠️ Built numerous small and large-scale projects to enhance my knowledge and simulate real-world scenarios
 
-🌍 Looking for opportunities to collaborate and grow professionally
 
