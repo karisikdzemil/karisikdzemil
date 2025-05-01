@@ -8,6 +8,5 @@ I'm a Front-End Developer and a Computer Science student at the State University
 
 🎓 Completed multiple courses and university projects
 
-🛠️ Built numerous small and large-scale projects to enhance my knowledge and simulate real-world scenarios
 
 
