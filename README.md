@@ -6,7 +6,6 @@ I'm a Front-End Developer and a Computer Science student at the State University
 
 💻 Focused on Front-End Development
 
-🎓 Completed multiple courses and university projects
 
 
 
