@@ -17,5 +17,3 @@
  📫 Contact Me
  
  📧 Email: karisikdzemil@gmail.com
- 
-💼 [LinkedIn](www.linkedin.com/in/džemil-karišik-37b964253)
